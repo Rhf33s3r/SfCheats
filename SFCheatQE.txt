@@ -1,0 +1,2 @@
+;add 50 quantum essence
+Player.setav quantumessence 50

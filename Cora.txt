@@ -1,0 +1,2 @@
+;Bat Cora
+29D489.moveto player

@@ -1,0 +1,20 @@
+;40 mm XPL for reckless bombardment
+Player.additem 2B5592 10000
+;7.77mm Caseless for vampires gift
+Player.additem 4AD3E 10000
+;.50 mm MI for revenant
+Player.additem 2B5596 25000
+;Heavy Particle Fuse for reflection
+player.additem 2B558B 10000
+;.50 cal caseless 2B5597 for hard target
+player.additem 2B5597 10000
+;6.5mm MI for magsniper
+player.additem 2B558F 10000
+;Cryo Mine
+player.additem 389F34 100
+;3KV LZR for Unmitigated Violence
+player.additem e8ec 10000
+;15x25 shell for Experiment A-7
+Player.additem 002B4AFC 10000
+;20mm Particle
+player.additem 0102C475 10000

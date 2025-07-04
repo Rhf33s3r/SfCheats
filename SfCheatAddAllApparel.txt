@@ -1,0 +1,231 @@
+;Player.additem 0012B4B3 ;Akila Secruity Hat
+;Player.additem 001E426E ;Amanirenas Hat
+;Player.additem 003E3D51 ;Ambassador Suit
+;Player.additem 0021BBEC ;Argos Extractor Jumpsuit
+;Player.additem 001C84DB ;Argos Jacketed Jumpsuit
+;Player.additem 003FDBF7 ;B.Morgan's Suit
+;Player.additem 0019219C ;Batball Cap
+;Player.additem 003E8E7F ;Bayu's Corpwear
+;Player.additem 001466EE ;Black Elbow Grease Gear
+;Player.additem 001466F2 ;Black Engineering Outfit
+;Player.additem 001466EA ;Black Leather Jumpsuit
+;Player.additem 001466F6 ;Black Graviplas Helmet
+;Player.additem 001466FA ;Black Open Graviplas Helmet
+Player.additem 00246B32 ;Blue Collar Offwork Duds
+Player.additem 00246B30 ;Blue Collar Offwork Hat
+;Player.additem 00077814 ;Blue Elbow Grease Gear
+;Player.additem 003A264E ;Blue Lab Outfit
+;Player.additem 0029E174 ;Blue Labor Jumpsuit
+Player.additem 001B52FF ;Blue Neocity Formwear
+Player.additem 002619F1 ;Blue Neocity Poncho
+;Player.additem 00077810 ;Blue UC Leather Jumpsuit
+;Player.additem 001466EF ;Brown Elbow Grease Gear
+;Player.additem 001466F3 ;Brown Engineering Outfit
+;Player.additem 00062EA3 ;Brown Leather Jumpsuit
+;Player.additem 001466EB ;Brown Leather Jumpsuit
+Player.additem 001B5300 ;Brown Neocity Formwear
+;Player.additem 002619F6 ;Casual Street Suit
+;Player.additem 00235B7D ;Clean Suit
+;Player.additem 00185A6F ;Chunks Cap
+;Player.additem 001A8DDD ;Chunks Service Uniform
+Player.additem 001A4253 ;Corpo Boardroom Suit
+Player.additem 00190D0B ;Corpo Executive Suit
+Player.additem 002265B0 ;Corpo Power Suit
+Player.additem 0019F9C1 ;Corpo Salary Suit
+Player.additem 002265B1 ;Corpo Sleek Suit
+Player.additem 001F1DCE ;Cream and Blue Dress
+Player.additem 000788AB ;Cyberware Streetwear
+Player.additem 00177494 ;Dalton Fiennes' Suit
+;Player.additem 00185A6E ;Deimos Cap
+Player.additem 002BA0E3 ;Deputy Hat
+;Player.additem 002262D3 ;Disciples Tagwear
+;Player.additem 001625DC ;DJ Headphones
+;Player.additem 001625DB ;DJ Headphones Cap
+Player.additem 0017A439 ;ECS Captain Actionwear
+Player.additem 0017A437 ;ECS Officer Uniform
+Player.additem 0017A438 ;ECS Uniform
+;Player.additem 001A8DE6 ;Enhance Service Uniform
+;Player.additem 00077816 ;Engineering Outfit
+Player.additem 003FC344 ;Explorer Adventure Hat
+;Player.additem 00204002 ;Farming Hat
+;Player.additem 002262D5 ;Farming Outfit
+;Player.additem 00250C86 ;Fashionable Suit
+;Player.additem 0010799A ;Faye Sengsavahn's Outfit
+Player.additem 0009F0F6 ;Festive Neocity Poncho
+;Player.additem 003EC02E ;Filthy Physician Uniform
+;Player.additem 0024EF42 ;Fishworker Mask
+;Player.additem 0024EF40 ;Fishworker Splashwear
+Player.additem 0024EF41 ;Fishworker Wetwear
+Player.additem 003E5D26 ;First Mercenary Outfit
+Player.additem 0021113E ;First Officer Hat
+Player.additem 00228826 ;First Officer Outfit
+Player.additem 0021F3F4 ;First Soldier Helmet
+Player.additem 00228825 ;First Soldier Outfit
+;Player.additem 000788A1 ;Formal Slack Suit
+;Player.additem 0021BBF1 ;Franklin Roosevelt's Outfit
+Player.additem 0022856C ;Freestar Duelwear
+Player.additem 00224FE9 ;Freestar Dustwear
+Player.additem 0021712A ;Freestar Militia Hat
+Player.additem 00228827 ;Freestar Militia Uniform
+;Player.additem 001CB843 ;GalBank Service Uniform
+;Player.additem 003CD812 ;Generdyne Guard Helmet
+;Player.additem 003CD80F ;Generdyne Lab Uniform
+;Player.additem 003CD810 ;Generdyne Security Uniform
+;Player.additem 001D8426 ;Genghis Khan's Hat
+;Player.additem 002262D2 ;Genghis Khan's Outfit
+Player.additem 00177492 ;Genevieve Monohan's Suit
+;Player.additem 001466F0 ;Gray Elbow Grease Gear
+;Player.additem 0029E175 ;Gray Labor Jumpsuit
+;Player.additem 001466EC ;Gray Leather Jumpsuit
+;Player.additem 002619EF ;Green Fashionable Suit
+;Player.additem 0029AEAE ;Hazmat Suit
+;Player.additem 00273C05 ;Homesteader Scout Hat
+Player.additem 00185A6C ;Hopetech Cap
+;Player.additem 00108353 ;Ikande's SysDef Officer Uniform
+Player.additem 00177493 ;Imogene Salzo's Suit
+;Player.additem 0025DEF0 ;Inclement Weather Outfit
+;Player.additem 000788AA ;Jacketed Leatherwear
+;Player.additem 00009CC7 ;Leatherwear
+;Player.additem 002619FD ;Leather Streetwear
+;Player.additem 002619FE ;Leather Pocketwear
+Player.additem 00177495 ;Linden Calderi's Suit
+;Player.additem 00030B4B ;Matteo Khatri's Hat
+;Player.additem 00030B4D ;Matteo's Outfit
+Player.additem 00226298 ;Masako Imada's Outfit
+Player.additem 001A52D1 ;Megacorp Executive Suit
+;Player.additem 000028A5 ;Medic Uniform
+Player.additem 002262D1 ;Mei Devine's Outfit
+;Player.additem 0026D8AA ;Miner Hard Hat Outfit
+Player.additem 0001D1D7 ;Miner Jumpsuit
+;Player.additem 0001D1D9 ;Miner Jacketed Jumpsuit
+;Player.additem 0009B72F ;Miner Orebreaker Outfit
+;Player.additem 0001D1E7 ;Miner Utility Outfit
+Player.additem 00225FCA ;Naeva's Outfit
+;Player.additem 000C47A0 ;NASA Lab Uniform
+Player.additem 001F1DC9 ;Navy Tan Dress
+;Player.additem 002266A2 ;Neocity Corpwear
+;Player.additem 000788A4 ;Neocity Hustler Outfit
+;Player.additem 002266A3 ;Neon Businesswear
+;Player.additem 001F1DD0 ;Neon Clublife Skirt
+Player.additem 000C900A ;Neon Dancer Headwear
+Player.additem 00225FCC ;Neon Dancer Outfit
+Player.additem 003556E7 ;Neon Nightlife Jumpsuit
+;Player.additem 001F1DCF ;Neon Nightlife Skirt
+;Player.additem 001F73EF ;Neon Security Helmet
+;Player.additem 00225D9E ;Neon Security Uniform
+;Player.additem 00165720 ;Neon Socialite Skirt
+;Player.additem 0021BBF2 ;New Atlantis Sec Uniform
+;Player.additem 001A2507 ;NeuroBoost Mark I
+;Player.additem 00100517 ;NeuroBoost Mark II
+Player.additem 00100518 ;NeuroBoost Mark III
+;Player.additem 00100519 ;NeuroCom Mark I
+;Player.additem 0010051A ;NeuroCom Mark II
+Player.additem 0010051B ;NeuroCom Mark III
+;Player.additem 0010051C ;NeuroTac Mark I
+;Player.additem 0010051D ;NeuroTac Mark II
+Player.additem 0010051F ;NeuroTac Mark III
+Player.additem 00225DA0 ;Nightwear
+;Player.additem 00036AFC ;Noel's Outfit
+Player.additem 0018DE02 ;Nyx's Outfit
+Player.additem 0018B54A ;Operative Suit
+;Player.additem 00261A03 ;Padded Hat
+;Player.additem 0002FE70 ;Paradiso Staff Uniform
+;Player.additem 002BC183 ;Patient's Clothes
+;Player.additem 003E5D27 ;Paxton's Officer Hat
+;Player.additem 0022766B ;Pirate Captain Outfit
+;Player.additem 002491EA ;Prison Scrubs
+;Player.additem 00208E8B ;Prisoner Uniform
+;Player.additem 00226297 ;Physician Uniform
+Player.additem 001BF2F8 ;Pryce's Suit
+Player.additem 0013730B ;Ranger Deputy Uniform
+Player.additem 002BA0E1 ;Ranger Hat
+;Player.additem 001CFA01 ;Red Mile Service Uniform
+;Player.additem 000028A6 ;Reliant Medical Uniform
+;Player.additem 00003BF6 ;Resort Wear
+;Player.additem 00003C4D ;Resort Wear
+;Player.additem 003EB4B4 ;Rokov's Officer Hat
+;Player.additem 0037A34F ;Ryujin Guard Helmet
+;Player.additem 0037A34E ;Ryujin Guard Uniform
+;Player.additem 00034110 ;Ryujin Lab Outfit
+;Player.additem 001823CB ;Ryujin Lab Worker Hood
+;Player.additem 001823CC ;Ryujin Lab Worker Outfit
+;Player.additem 00034114 ;Ryujin R&D Outfit
+Player.additem 0001D1DE ;Sam Coe's Outfit
+;Player.additem 0016571D ;Sanctum Priest Headwear
+Player.additem 00055905 2;Sarah Morgan's Outfit
+Player.additem 0021C786 ;Sari Dress
+;Player.additem 00165718 ;Security Guard Helmet
+Player.additem 000CC4D1 ;Security Flightsuit
+;Player.additem 0021C783 ;Service Industry Uniform
+Player.additem 0025DEEF ;Settler Adventure Hat
+;Player.additem 00258039 ;Settler Casual Hat
+;Player.additem 0024EF65 ;Settler Hat
+;Player.additem 000753F4 ;Shielded Lab Outfit
+;Player.additem 0021C782 ;Shinya Voss Outfit
+;Player.additem 0016E0B9 ;Ship Captain Hat
+;Player.additem 0021C781 ;Ship Captain's Uniform
+Player.additem 0029080F ;Space Rogue Muscle Gear
+Player.additem 0029080E ;Space Rogue Outfit
+Player.additem 002456F2 ;Space Trucker Bar Duds
+Player.additem 002456F3 ;Space Trucker Cap
+Player.additem 00246B31 ;Space Trucker Cargowear
+Player.additem 002456F4 ;Space Trucker Casualwear
+Player.additem 002470D1 ;Space Trucker Flannel
+Player.additem 002470D2 ;Space Trucker Flannel
+Player.additem 0029080D ;Space Trucker Hat
+Player.additem 002470D0 ;Space Trucker Haul Wrap
+Player.additem 00165722 ;Space Undersuit
+;Player.additem 002E18F6 ;Striker Maskwear
+;Player.additem 00064A2E ;Striker Streetwear
+;Player.additem 00027189 ;Suit with Lapel Pin
+Player.additem 0002FA4 3;Swimsuit
+Player.additem 000D41F8 ;SY-920 Fatigues
+;Player.additem 0011F3A8 ;Syndicate Capo Suit
+;Player.additem 0011F3AC ;Syndicate Club Suit
+;Player.additem 0011F3AD ;Syndicate Boss Suit
+;Player.additem 0011F3B0 ;Syndicate Pinstripes
+;Player.additem 0011F3A7 ;Syndicate Thug Suit
+;Player.additem 002619FC ;Synth Leatherwear
+;Player.additem 002619FC ;Synthleather Streetwear
+;Player.additem 003329BB ;SysDef Crew Uniform
+;Player.additem 003329B4 ;SysDef Formal Uniform
+;Player.additem 0021C1FB ;SysDef Officer Uniform
+;Player.additem 000D981C ;SysDef Prison Scrubs
+;Player.additem 00185A69 ;Taiyo Astroneering Cap
+;Player.additem 001466F1 ;Teal Elbow Grease Gear
+;Player.additem 001466F9 ;Teal Engineering Outfit
+;Player.additem 001466ED ;Teal Leather Jumpsuit
+;Player.additem 001466FD ;Teal Open Graviplas Helmet
+;Player.additem 003CF431 ;TerraBrew Barista Outfit
+;Player.additem 0007F88D ;TerraBrew Uniform
+;Player.additem 001CB7E7 ;Trade Authority Uniform
+;Player.additem 00164BDD ;Trident Crew Uniform
+;Player.additem 0014E44E ;Trident Guard Helmet
+;Player.additem 000DBFDA ;Trident Guard Uniform
+;Player.additem 00185A68 ;Trident Luxury Lines Cap
+;Player.additem 00034111 ;TRItek Lab Outfit
+;Player.additem 00077818 ;UC Gray Utility Jumpsuit
+;Player.additem 002C6E7D ;UC Navy Armored Fatigues
+Player.additem 0018E260 ;UC Navy Crew Hat
+;Player.additem 0021A86E ;UC Navy Crew Uniform
+;Player.additem 003E3ACF ;UC Navy Duty Fatigues
+;Player.additem 002C6E7F ;UC Navy Fatigues
+;Player.additem 002C6E7E ;UC Navy Hat
+;Player.additem 003E3AD1 ;UC Navy Recon Fatigues
+;Player.additem 0021A86D ;UC Navy Officer Uniform
+;Player.additem 0025E8D5 ;UC Security Helmet
+;Player.additem 0025E8D4 ;UC Security Uniform
+;Player.additem 003329BC ;UC SysDef Crew Hat
+;Player.additem 003B2A81 ;Ularu's Suit
+;Player.additem 00185A67 ;United Colonies Cap
+;Player.additem 002619FB ;Urban Operator Outfit
+;Player.additem 000788A2 ;Urban Slackwear
+Player.additem 00251F56 ;Utility Flightsuit
+;Player.additem 000781F9 ;Utility Headphone Cap
+;Player.additem 00252AE7 ;Utility Headphones
+Player.additem 003CAF7E ;Vanguard Officer Uniform
+;Player.additem 002619F7 ;Vested Suit
+Player.additem 0002B5EE ;White Neocity Poncho
+;Player.additem 0029E173 ;Yellow Labor Jumpsuit
+;Player.additem 0004008C ;Xenofresh Clean Suit
+;Player.additem 001466FF ;Xenofresh Tech Outfit

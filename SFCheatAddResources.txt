@@ -1,0 +1,270 @@
+;add all resources, 100 of each
+;adaptive Frame
+Player.additem 00246B6A 100
+;• Adhesive 
+Player.additem 0055B1 100
+;• Aldumite 
+Player.additem 005DEC 100
+;• Aldumite Drilling Rig 
+Player.additem 202F5A 100
+;• Alien Genetic Material 
+Player.additem 0C1F57 100
+;• Alkanes 
+Player.additem 5570 100
+;• Aluminum 
+Player.additem 00557D 100
+;• Amino Acids 
+Player.additem 0055CD 100
+;• Analgesic 
+Player.additem 0055A9 100
+;• Antibiotics 
+Player.additem 2F4436 100
+;• Antimicrobial 
+Player.additem 0055AB 100
+;• Antimony 
+Player.additem 00557B 100
+;• Argon 
+Player.additem 5588 100
+;• Aromatic 
+Player.additem 0055B8 100
+;• Aurora (bypass) 
+;Player.additem 2C5884 100
+;• Austenitic Manifold 
+Player.additem 246B7C 100
+;• Battlestim 
+Player.additem 2A5024 100
+;• Benzene 
+Player.additem 5585 100
+;• Beryllium 
+Player.additem 0057D9 100
+;• Biosuppressant 
+Player.additem 0055B2 100
+;• Black Hole Heart 
+Player.additem 122EA8 100
+;• Butter 
+Player.additem 2C7C0A 100
+;• Caelumite 
+Player.additem 788D6 100
+;• Caesium 
+Player.additem 0057DF 100
+;• Can-uck! Poutine 
+Player.additem 2C7231 100
+;• Carboxylic Acids 
+Player.additem 5586 100
+;• Cheese 
+Player.additem 1FC9C1 100
+;• Chlorine 
+Player.additem 00557C 100
+;• Chlorosilanes 
+Player.additem 00557E 100
+;• Chunks Cola 
+Player.additem 249C52 100
+;• Cobalt 
+Player.additem 5575 100
+;• Comm Relay 
+Player.additem 246B64 100
+;• Control Rod 
+Player.additem 246B7B 100
+;• Copper 
+Player.additem 5576 100
+;• Cosmetic 
+Player.additem 0055A8 100
+;• CQB-X 
+Player.additem 29A85E 100
+;• Credits 
+Player.additem 00000F 1000000
+;• Digipicks 
+Player.additem 00000A 100
+;• Drilling Rig 
+Player.additem 20A02F 100
+;• Dwarf Star Heart 
+Player.additem 122EB6 100
+;• Dysprosium 
+Player.additem 5569 100
+;• Egg 
+Player.additem 2C7222 100
+;• Emergency Kit 
+Player.additem 2A9DE8 100
+;• Europium 
+Player.additem 0057E1 100
+;• Fiber 
+Player.additem 0055AF 100
+;• Fiber (Root) 
+Player.additem 260DF0 100
+;• Fiber (Tissue) 
+Player.additem 24F5C3 100
+;• Fluorine 
+Player.additem 005577 100
+;• Gold 
+Player.additem 5579 100
+;• Heart+ 
+Player.additem 29CAD9 100
+;• Helium-3 
+Player.additem 00558E 100
+;• High-Tensile Spidroin 
+Player.additem 0055AA 100
+;• Hippolyta 
+Player.additem 2C5883 100
+;• Hypercatalyst 
+Player.additem 29F40D 100
+;• Immunostimulant 
+Player.additem 0055B3 100
+;• Indicite 
+Player.additem 04BA37 100
+;• Indicite Wafer 
+Player.additem 203EB4 100
+;• Infantry Alpha 
+Player.additem 29A85C 100
+;• Ionic Liquids 
+Player.additem 00557A 100
+;• Iridium 
+Player.additem 00558A 100
+;• Iron 
+Player.additem 00556E 100
+;• Isocentered Magnet 
+Player.additem 246B77 100
+;• Isotopic Coolant 
+Player.additem 246B76 100
+;• Lead 
+Player.additem 5568 100
+;• Liquor 
+Player.additem 29B04F 100
+;• Lithium 
+Player.additem 00557F 100
+;• Lubricant 
+Player.additem 0055BA 100
+;• Luxury Textile 
+Player.additem 00559E 100
+;• Mag Pressure Tank 
+Player.additem 246B70 100
+;• Med Pack 
+Player.additem 00ABF9 100
+;• Membrane 
+Player.additem 0055B0 100
+;• Memory Substrate 
+Player.additem 00559B 100
+;• Mercury 
+Player.additem 27C4A1 100
+;• Metabolic Agent 
+Player.additem 29F3FC 100
+;• Microsecond Regulator 
+Player.additem 246B5F 100
+;• Molecular Sieve 
+Player.additem 246B75 100
+;• Monopropellant 
+Player.additem 246B74 100
+;• Neodymium 
+Player.additem 5580 100
+;• Neon 
+Player.additem 5587 100
+;• Nickel 
+Player.additem 5572 100
+;• Noodles 
+Player.additem 2C7240 100
+;• Nuclear Fuel Rod 
+Player.additem 246B79 100
+;• Nutrient 
+Player.additem 0777FD 100
+;• Ornamental Material 
+Player.additem 0055A7 100
+;• Palladium 
+Player.additem 5574 100
+;• Paramagnon Conductor 
+Player.additem 246B73 100
+;• Pigment 
+Player.additem 29F400 100
+;• Platinum 
+Player.additem 5573 100
+;• Plutonium 
+Player.additem 00558C 100
+;• Polymer 
+Player.additem 0055A6 100
+;• Polytextile 
+Player.additem 246B72 100
+;• Positron Battery 
+Player.additem 246B71 100
+;• Power Circuit 
+Player.additem 246B5C 100
+;• Reactive Gauge 
+Player.additem 246B6F 100
+;• Red Meat 
+Player.additem 0304D0 100
+;• Rothicite 
+Player.additem 0028DF 100
+;• Rothicite Magnet 
+Player.additem 203EB2 100
+;• Sealant 
+Player.additem 0055CC 100
+;• Sedative 
+Player.additem 0055AD 100
+;• Semimetal Wafer 
+Player.additem 246B6D 100
+;• Silver 
+Player.additem 00556A 100
+;• Solvent 
+Player.additem 0055CE 100
+;• Spice 
+Player.additem 0055AC 100
+;• Squall 
+Player.additem 2A9DE7 100
+;• Sterile Nanotubes 
+Player.additem 246B6C 100
+;• Stimulant 
+Player.additem 0055AE 100
+;• Structural Material 
+Player.additem 0055B9 100
+;• Subgiant Heart 
+Player.additem 122EB1 100
+;• Substrate Molecule Sieve 
+Player.additem 202782 100
+;• Supercooled Magnet 
+Player.additem 246B69 100
+;• Synapse Alpha 
+Player.additem 2C5880 100
+;• Synthameat Chicken 
+Player.additem 2C7242 100
+;• Tantalum 
+Player.additem 00556F 100
+;• Tasine 
+Player.additem 005DED 100
+;• Tasine Superconductor 
+Player.additem 203EAF 100
+;• Tau Grade Rheostat 
+Player.additem 246B68 100
+;• Tetrafluorides 
+Player.additem 5578 100
+;• Titanium 
+Player.additem 00556D 100
+;• Toxin 
+Player.additem 0055CB 100
+;• Trauma Pack 
+Player.additem 29A847 100
+;• Tungsten 
+Player.additem 00556B 100
+;• Uranium 
+Player.additem 005589 100 	 	
+;• Vanadium 
+Player.additem 00558B 100
+;• Veryl 
+Player.additem 005DEE 100
+;• Veryl-Treated Manifold 
+Player.additem 203EB0 100
+;• Vytinium 
+Player.additem 005DEF 100
+;• Vytinium Fuel Rod 
+Player.additem 203EB3 100
+;• Water 
+Player.additem 5591 100
+;• Whiteout 
+Player.additem 143CB2 100
+;• Xenon 
+Player.additem 0057DD 100
+;• Ytterbium 
+Player.additem 5571 100
+;• Zero Wire 
+Player.additem 246B65 100
+;Zero-G Gimbal 
+Player.additem 246B66 100
+;Small Primer
+player.additem 002C0D71 100
+

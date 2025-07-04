@@ -1,0 +1,95 @@
+;Alien Reanimation
+
+player.addspell 2C538F
+
+;Anti-Gravity Field
+
+player.addspell 2BACBA
+
+;Create Vacuum
+
+player.addspell 2C5390
+
+;Creators' Peace
+
+player.addspell 2C538D
+
+;Earthbound
+
+player.addspell 2BACB5
+
+;Elemental Pull
+
+player.addspell 2C5391
+
+;Eternal Harvest
+
+player.addspell 2BACB4
+
+;Grav Dash
+
+player.addspell 2C538C
+
+;Gravity Wave
+
+player.addspell 2BACB7
+
+;Gravity Well
+
+player.addspell 2C5A62
+
+;Inner Demon
+
+player.addspell 2C5399
+
+;Life Forced
+
+player.addspell 2C538B
+
+;Moon Form
+
+player.addspell 2C5A4E
+
+;Parallel Self
+
+player.addspell 2C5A67
+
+;Particle Beam
+
+player.addspell 2C5A66
+
+;Personal Atmosphere
+
+player.addspell 2C5389
+
+;Phased Time
+
+player.addspell 2C5A63
+
+;Precognition
+
+player.addspell 2C538A
+
+;Reactive Shield
+
+player.addspell 2BACB6
+
+;Sense Star Stuff
+
+player.addspell 2C5A54
+
+;Solar Flare
+
+player.addspell 2C5A59
+
+;Sunless Space
+
+player.addspell 2C5388
+
+;Supernova
+
+player.addspell 2C5387
+
+;Void Form
+
+player.addspell 2C5A53

@@ -1,0 +1,6 @@
+;run in console as "bat SfCheatBoost"
+
+;UC AntiXeno Kit
+player.additem 0010A25D
+player.additem 0010A25E
+player.additem 00206130

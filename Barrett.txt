@@ -1,0 +1,9 @@
+;Bat Barrett
+5788.moveto player
+
+;5986.moveto player	Sarah
+;29D488.moveto player	Sam
+;59A9.moveto player	Andreja
+;5788.moveto player	Barret
+;C480C.moveto player	Muria
+;5998.moveto player	Walter

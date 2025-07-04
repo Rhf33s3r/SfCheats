@@ -1,0 +1,46 @@
+;NG Start Stuff I need
+;add 50 quantum essence
+Player.setav quantumessence 50
+;Carry weight
+Player.modav carryweight 99999
+;Better speed
+Player.modav speedmult 300
+;Add 4 million Credits
+Player.additem f 4000000
+
+;AID ITEMS
+bat SfCheatAddAid
+
+;WEAPONS
+bat SfCheatAddWeapons
+
+;AMMO
+bat SfCheatAddAmmo
+
+;WARDROBE (commented out since this entire script is called from ALL NEW script and this would cause doubles).
+;bat sfcheataddallapparel
+
+;QUEST FULLFILLMENT
+;Microcell for Kaiser <-- go straight to Kaiser
+player.additem 9DE66 1
+;VIP Keycard for Maya <-- go straight to VIP wing
+player.additem 001D7EF4 1
+
+;SfCheatAddResources
+bat sfcheataddresources
+
+;Add Mark 1 Spacesuit, helmet, and boost pack
+player.additem 0001754D 1
+player.additem 0001754F 1
+player.additem 0001754E 1
+
+;Basic Clothes
+;Sarah's outfit
+player.additem 00055905 1
+;Swimsuit
+player.additem 0002FA4 1
+;Ularu's Suit
+player.additem 003B2A81 1
+;security flightsuit
+player.additem 000CC4D1 1
+;consider running "bat sfcheataddallapparel"

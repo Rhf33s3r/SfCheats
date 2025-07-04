@@ -1,0 +1,146 @@
+;All Starfield Research Project IDS
+;Pharmacology	
+;Medical Treatment 1	
+CompleteResearch 00389EEA
+;Medical Treatment 2	
+CompleteResearch 00389EEB
+;Medical Treatment 3	
+CompleteResearch 00389EEC
+;Performance Enhancement 1	
+CompleteResearch 00389EEF
+;Performance Enhancement 2	
+CompleteResearch 00389EF0
+;Performance Enhancement 3	
+CompleteResearch 00389EF1
+;Innovative Synthesis 1	
+CompleteResearch 00389EF4
+;Innovative Synthesis 2	
+CompleteResearch 00389EF5
+;Innovative Synthesis 3	
+CompleteResearch 00389EF6
+;Food and Drink	
+Mixology 1	
+CompleteResearch 00389EF9
+;Mixology 2	
+CompleteResearch 00389EFA
+;Mixology 3	
+CompleteResearch 00389EFB
+;Beverage Development 1	
+CompleteResearch 00389EFD
+;Beverage Development 2	
+CompleteResearch 00389EFE
+;Beverage Development 3	
+CompleteResearch 00389EFF
+;Old Earth Cuisine 1	
+CompleteResearch 00389F01
+;Old Earth Cuisine 2	
+CompleteResearch 00389F02
+;Old Earth Cuisine 3	
+CompleteResearch 00389F03
+;Exotic Recipes 1	
+CompleteResearch 00389F05
+;Exotic Recipes 2	
+CompleteResearch 00389F06
+;Exotic Recipes 3	
+CompleteResearch 00389F07
+;Outpost Development	
+;Manufacturing 1	
+CompleteResearch 00389F11
+;Manufacturing 2	
+CompleteResearch 00389F12
+;Manufacturing 3	
+CompleteResearch 00389F13
+;Resource Extraction 1	
+CompleteResearch 00389F0B
+;Resource Extraction 2	
+CompleteResearch 00389F0C
+;Decoration 1	
+CompleteResearch 00100B8B
+;Decoration 2	
+CompleteResearch 00100B8A
+;Decoration 3	
+CompleteResearch 00100B8C
+;Horticulture 1	
+CompleteResearch 00389F09
+;Horticulture 2	
+CompleteResearch 00389F0A
+;Domestication 1	
+CompleteResearch 003E3D4D
+;Domestication 2	
+CompleteResearch 003E3D4E
+;Power Generation 1	
+CompleteResearch 00389F14
+;Power Generation 2	
+CompleteResearch 00389F15
+;Power Generation 3	
+CompleteResearch 00389F16
+;Power Generation 4	
+CompleteResearch 00389F17
+;Robots 1	
+CompleteResearch 00389F0F
+;Robots 2	
+CompleteResearch 00389F10
+;Outpost Defense 1	
+CompleteResearch 00389F0D
+;Outpost Defense 2	
+CompleteResearch 00389F0E
+;Equipment	
+;Pack Mods 1	
+CompleteResearch 000C11A5
+;Pack Mods 2	
+CompleteResearch 000C11A6
+;Pack Mods 3	
+CompleteResearch 000C11A7
+;Spacesuit Mods 1	
+CompleteResearch 001520B9
+;Spacesuit Mods 2	
+CompleteResearch 00178D03
+;Spacesuit Mods 3	
+CompleteResearch 00178D1A
+;Helmet Mods 1	
+CompleteResearch 00178D1B
+;Helmet Mods 2	
+CompleteResearch 00178D1C
+;Helmet Mods 3	
+CompleteResearch 00178D1D
+;Weaponry	
+;Barrel Mods 1	
+CompleteResearch 00389F18
+;Barrel Mods 2	
+CompleteResearch 00389F19
+;Magazine and Battery Mods 1	
+CompleteResearch 00389F1A
+;Magazine and Battery Mods 2	
+CompleteResearch 00389F1B
+;Magazine and Battery Mods 3	
+CompleteResearch 00380C4D
+;Optic and Laser Mods 1	
+CompleteResearch 00389F1C
+;Optic and Laser Mods 2	
+CompleteResearch 00389F1D
+;Optic and Laser Mods 3	
+CompleteResearch 00389F1E
+;Internal Mods 1	
+CompleteResearch 00389F1F
+;Internal Mods 2	
+CompleteResearch 00389F20
+;Internal Mods 3	
+CompleteResearch 00389F21
+;Grip and Stock Mods 1	
+CompleteResearch 00389F22
+;Grip and Stock Mods 2	
+CompleteResearch 00389F23
+;Grip and Stock Mods 3	
+CompleteResearch 00389F24
+;Receiver Mods 1	
+CompleteResearch 00389F25
+;Receiver Mods 2	
+CompleteResearch 00389F26
+;Muzzle Mods 1	
+CompleteResearch 00389F27
+;Muzzle Mods 2	
+CompleteResearch 00389F28
+;Muzzle Mods 3	
+CompleteResearch 00389F29
+
+;From <https://www.ign.com/wikis/starfield/How_to_Complete_Starfield_Research_Projects_with_Console_Commands> 

@@ -1,0 +1,15 @@
+;SF Cheat Add Advanced Reactor Parts (2)
+;Adaptive Frame
+Player.additem 246B6A 10
+;Control Rod
+Player.additem 246B7B 4
+;Tasine Super
+Player.additem 203EAF 4
+;Lead
+Player.additem 5568 20
+;Rothcite Magnet
+Player.additem 203EB2 4
+;Vytinium Fuel Rod
+Player.additem 203EB3 8
+;Power Circuit
+Player.additem 246B5C 2

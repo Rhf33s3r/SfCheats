@@ -1,0 +1,4 @@
+;advance follower's affinity to next level to trigger next dialog
+;first open console with ~ key, then highlight the character with the mouse and scroll to the NPC's name, then execute this bat file with "bat affinity" which types:
+setav 002b9007 1
+;will trigger next dialog if you have accumulated enough points

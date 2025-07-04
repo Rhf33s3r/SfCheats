@@ -1,0 +1,2 @@
+;for TRACKER mission, moves roach to you to interrogate Hannible
+FD000E9F.moveto player

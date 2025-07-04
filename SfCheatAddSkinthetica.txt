@@ -1,0 +1,14 @@
+;bat SfCheatAddSkinthetica
+;Skinthetica Resources Needed
+;pigment
+Player.additem 29F400 200
+;metabolic
+Player.additem 29F3FC 300
+;amino acids
+Player.additem 0055CD 100
+;hyper
+Player.additem 29F40D 100
+;polymer
+Player.additem 0055A6 100
+;cosmetic
+Player.additem 0055A8 200

@@ -1,0 +1,2 @@
+;Bat Sam
+29D488.moveto player

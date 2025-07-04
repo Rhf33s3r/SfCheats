@@ -1,0 +1,22 @@
+;Experiment A-7 shotgun
+Player.additem 0031F257
+;Add Vampires Gift 7.77
+Player.additem 2FAC66
+;Add Revanant .50 MI
+Player.additem 8AF62
+;add Reckless Bombardment 40mm XPL
+Player.additem 2E0727
+;Hard Target 546CC .50 caseless
+Player.additem 546CC
+;advanced big bang 26D963 Heavy Particle Fuse (use reflection instead)
+;player.additem 26D963
+;reflection 22A90D heavy fuse
+player.additem 22A90D
+;the last priest
+player.additem 31F25A
+;magsniper 6.5MI
+player.additem 02EB45
+;Novablasts for Neon Artifact Mission (spare for companion)
+;player.additem 26D968 2
+;Unmitigated Violence
+player.additem 1F02EF

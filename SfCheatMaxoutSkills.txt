@@ -1,0 +1,180 @@
+;Physical Skills
+
+player.addperk 002C59DF
+;Boxing
+player.addperk 002CE2DD
+;Fitness
+player.addperk 002CFCB2
+;Stealth
+player.addperk 002C59D9
+;Weight Lifting
+player.addperk 002CE2E1
+;Wellness
+player.addperk 002C59E2
+;Energy Weapon Dissipation
+player.addperk 0028AE17
+;Environmental Conditioning
+player.addperk 0028AE29
+;Gymnastics
+player.addperk 002CFCAD
+;Nutrition
+player.addperk 002CFCAE
+;Pain Tolerance
+player.addperk 0028AE14
+;Cellular Regeneration
+player.addperk 002CE2A0
+;Decontamination
+player.addperk 002C5554
+;Martial Arts
+player.addperk 002C555E
+;Concealment
+player.addperk 002C53B4
+;Neurostrikes
+player.addperk 0028AE13
+;Rejuvenation
+
+;Social Skills
+
+player.addperk 002C5A8E
+;Commerce
+player.addperk 002C5A94
+;Gastronomy
+player.addperk 0022EC82
+;Persuasion
+player.addperk 0028B853
+;Scavenging
+player.addperk 002C555B
+;Theft
+player.addperk 002CFCAF
+;Deception
+player.addperk 002C59E1
+;Diplomacy
+player.addperk 002C59DE
+;Intimidation
+player.addperk 002C53AE
+;Isolation
+player.addperk 002C555F
+;Negotiation
+player.addperk 002C555D
+;Instigation
+player.addperk 002C890D
+;Leadership
+player.addperk 0023826F
+;Outpost Management
+player.addperk 002C5555
+;Manipulation
+player.addperk 002C53B3
+;Ship Command
+player.addperk 002C53B0
+;Xenosociology
+
+;Combat Skills
+
+player.addperk 002CFCAB
+;Ballistics
+player.addperk 002CFCB0
+;Dueling
+player.addperk 002C59DD
+;Lasers
+player.addperk 002080FF
+;Pistol Certification
+player.addperk 0027DF97
+;Shotgun Certification
+player.addperk 002C5556
+;Demolitions
+player.addperk 00147E38
+;Heavy Weapons Certification
+player.addperk 0027DF96
+;Incapacitation
+player.addperk 0027BAFD
+;Particle Beams
+player.addperk 002CE2E0
+;Rifle Certification
+player.addperk 002C890B
+;Marksmanship
+player.addperk 002C555A
+;Rapid Reloading
+player.addperk 002C53B1
+;Sniper Certification
+player.addperk 002C59DA
+;Targeting
+player.addperk 0027DF94
+;Armor Penetration
+player.addperk 0027CBBA
+;Crippling
+player.addperk 002C53AF
+;Sharpshooting
+
+;Science Skills
+
+player.addperk 002C5560
+;Astrodynamics
+player.addperk 002CE29F
+;Geology
+player.addperk 002CE2DF
+;Medicine
+player.addperk 002C555C
+;Research Methods
+player.addperk 0027CBC1
+;Surveying
+player.addperk 002C5557
+;Botany
+player.addperk 002CFCB1
+;Scanning
+player.addperk 0027CBC3
+;Spacesuit Design
+player.addperk 002C890C
+;Weapon Engineering
+player.addperk 002C5552
+;Zoology
+player.addperk 0027CBBB
+;Astrophysics
+player.addperk 002CE2C0
+;Chemistry
+player.addperk 002C59E0
+;Outpost Engineering
+player.addperk 002C2C5A
+;Aneutronic Fusion
+player.addperk 0027CBC2
+;Planetary Habitation
+player.addperk 0004CE2D
+;Special Projects
+
+;Tech Skills
+
+player.addperk 002CE2C2
+;Ballistic Weapon Systems
+player.addperk 00146C2C
+;Boost Pack Training
+player.addperk 002CFCAC
+;Piloting
+player.addperk 002CE2E2
+;Security
+player.addperk 002C5559
+;Targeting Control Systems
+player.addperk 002C59DB
+;Energy Weapon Systems
+player.addperk 002CE2DE
+;Engine Systems
+player.addperk 00143B6B
+;Payloads
+player.addperk 002C2C59
+;Shield Systems
+player.addperk 002C5558
+;Missile Weapon Systems
+player.addperk 002C2C5B
+;Particle Beam Weapon Systems
+player.addperk 002C5553
+;Robotics
+player.addperk 002C59DC
+;Starship Design
+player.addperk 002AC953
+;Starship Engineering
+player.addperk 0027B9ED
+;Automated Weapon Systems
+player.addperk 0008C3EE
+;Boost Assault Training
+player.addperk 002C53B2
+;EM Weapon Systems
+
+;From <https://www.ign.com/wikis/starfield/All_Skill_IDs> 

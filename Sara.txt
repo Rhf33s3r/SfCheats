@@ -1,0 +1,2 @@
+;Bat Sara
+5986.moveto player

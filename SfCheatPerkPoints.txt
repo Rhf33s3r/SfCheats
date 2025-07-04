@@ -1,0 +1,2 @@
+;Perk Points
+Cgf "game.addperkpoints" 100

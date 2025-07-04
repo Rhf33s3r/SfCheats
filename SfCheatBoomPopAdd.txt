@@ -1,0 +1,31 @@
+Boom Pop! Black Licorice
+
+Boom Pop! Cherry
+
+Boom Pop! Cola
+
+Boom Pop! Dynamite
+
+Boom Pop! Orange
+
+Boom Pop! Reactor
+
+Boom Pop! Rhubarb
+
+Boom Pop! Root Beer
+
+player.additem 002C71F8 10
+
+player.additem 0029A863 10
+
+player.additem 002C71F5 10
+
+player.additem 0029B040 10
+
+player.additem 002C71F6 10
+
+player.additem 003038FE 10
+
+player.additem 002C71F7 10
+
+player.additem 002C71F4 10

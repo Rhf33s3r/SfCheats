@@ -1,0 +1,28 @@
+;run console command "bat SfCheatAllNew"
+;add all resources, good guns, aid, speed
+bat SfCheatNgSetup
+;increase ships max owned
+bat SfCheat20Ships
+;add apparel
+bat sfCheatAddAllApparel
+;run once add all temple powers
+bat sfCheatAddPowersMeFirst
+;run 9 times take powers to 10
+bat sfCheatAddPowers
+bat sfCheatAddPowers
+bat sfCheatAddPowers
+bat sfCheatAddPowers
+bat sfCheatAddPowers
+bat sfCheatAddPowers
+bat sfCheatAddPowers
+bat sfCheatAddPowers
+bat sfCheatAddPowers
+;Complete all research
+bat SfCheatCompleteResearch
+;add all skills, run 4 times
+bat SfCheatMaxoutSkills
+bat SfCheatMaxoutSkills
+bat SfCheatMaxoutSkills
+bat SfCheatMaxoutSkills
+;jump to level 40
+bat SfCheatSetLevelAt40

@@ -1,0 +1,2 @@
+; add magsniper
+player.additem 0002EB45
